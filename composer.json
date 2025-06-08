@@ -18,7 +18,7 @@
         "wiki": "https://github.com/RumenDamyanov/php-sitemap/wiki"
     },
     "require": {
-        "php": ">=7.3"
+        "php": ">=8.2"
     },
     "require-dev": {
         "pestphp/pest": "^2.0",
