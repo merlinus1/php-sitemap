@@ -1,5 +1,5 @@
 {
-    "name": "rumenx/php-sitemap",
+    "name": "merlinus1/php-sitemap",
     "description": "Framework-agnostic Sitemap generator for PHP, Laravel, and Symfony.",
     "homepage": "https://github.com/RumenDamyanov/php-sitemap",
     "keywords": ["php", "sitemap", "generator", "xml", "html", "google-news", "laravel", "symfony"],
